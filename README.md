@@ -21,4 +21,4 @@ Because this is a command-line application, there's no "front-end" to show you, 
 
 _Click on the image below to watch the videos on YouTube!_
 
-[![command line interface](https://img.youtube.com/vi/iKEekT83c_4.jpg)](https://youtu.be/iKEekT83c_4)
+[![command](https://img.youtube.com/vi/iKEekT83c_4/0.jpg)](https://youtu.be/iKEekT83c_4)
