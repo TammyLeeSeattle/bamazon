@@ -19,6 +19,6 @@ Because this is a command-line application, there's no "front-end" to show you, 
 
 ## Seeing it in action
 
-_Click on the image below to watch the videos on YouTube!_
+_Click on the image below to watch the video on YouTube!_
 
 [![command](https://img.youtube.com/vi/iKEekT83c_4/0.jpg)](https://youtu.be/iKEekT83c_4)
